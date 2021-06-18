@@ -1,2 +1,2 @@
 # sales-predictions
-This is a project for forecasting sales of food items at various retail stores. 
+This project is aimed to build a predictive model and forecast the sales of food items at various retail stores. 
