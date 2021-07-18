@@ -3,6 +3,7 @@ Sales data have been collected for products sold across 10 outlets of a certain 
 Just like many data analysis projects, I will proceed with these three steps:
 1. Data exploration 
 2. Data cleaning
-3. Data Visualization
-4. Feature Engineering and Predictive modeling 
-5. Conclusion
+3. Data visualization
+4. Feature engineering and predictive modeling 
+5. Checking model performance 
+6. Conclusion
